@@ -1,0 +1,1 @@
+# Trash Crew Token contract
